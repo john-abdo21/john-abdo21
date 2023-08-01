@@ -3,7 +3,7 @@
 <br>
 <img align="right" alt="GIF" src="https://camo.githubusercontent.com/190338430fb2eca4d172a1987205c5e073b2de72db46cb4ed12cf1c2fa32041a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966" width="400" />
   <p>
-  I have been engaged in web development since 2016, and during that time, I worked in various environments and developed a lot of projects, gaining a lot of experience and acquiring strong problem-solving skills.
+  I have been engaged in web development since 2015, and during that time, I worked in various environments and developed a lot of projects, gaining a lot of experience and acquiring strong problem-solving skills.
 I combine creative thinking, user resonance, and a passion for development to create great digital experiences.
 I'm also proficient in team collaboration and is proficient in version management through github.
 My repertoire includes ReactJS, VueJS, Nodejs, React-Native, Threejs, Mobx, Wordpress, AngularJS, Laravel, CakePhp, MySQL, MongoDB and Apache server configuration, SASS, Bootstrap, Javascript, jQuery, etc.
