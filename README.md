@@ -76,7 +76,3 @@ I'm also a passionate and highly skilled blockchain expert with hands-on experie
 </div>
 
 
-<p align="center"><h2>📈 my github stats</h2></p>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=paul-bill&show_icons=true&theme=gotham" alt="paul bill" width="100%" />
-
